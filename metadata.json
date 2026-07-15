@@ -1,0 +1,6 @@
+{
+  "name": "DailySync",
+  "description": "비용 부담 없이 개인 브라우저 환경에서 작동하는, 신입사원용 주간 회의록 일정 추출 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
